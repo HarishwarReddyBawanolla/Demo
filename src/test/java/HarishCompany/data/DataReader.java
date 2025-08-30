@@ -28,5 +28,7 @@ public class DataReader {
 		  return data;
 		
 
+  // Monkey D.Luffy Monkey D.Garp Monkey D.Dragon Portagas D.Ace Portagas D.Rouge Gol D.Roger Marshall D.Teach Rocks D.Zebec Nefertari D.Lili Nefertari D.Cobra Nefertari D.Vivi Jagaur D.Saul Claimouh D.Clover
+
   }
 }
